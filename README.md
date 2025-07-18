@@ -61,13 +61,21 @@ In complex real estate markets like Vancouver or Toronto, housing prices are not
 
 ## Folder Structure
 realestate_sim/
+
 ├── data/ # Raw CSVs, shapefiles, geojsons
+
 ├── scripts/ # Python modules for cleaning, modeling
+
 ├── notebooks/ # EDA & model development
+
 ├── output/ # Predictions, graphs, and reports
+
 ├── templates/ # (Optional) Report templates
+
 ├── figures/ # Static images for README or dashboard
+
 ├── main.py # Entry point for CLI pipeline
+
 └── README.md # You are here
 
 
